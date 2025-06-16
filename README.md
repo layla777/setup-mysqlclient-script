@@ -1,7 +1,8 @@
-# MySQL Client Setup Script () `mclient.sh`
+# MySQL Client Setup Script `mclient.sh`
 **Current Version:** v0.9.0
 
-[](LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 This script automates the setup of MySQL client-related environment variables and the installation of the Python `mysqlclient` package on macOS. It ensures seamless integration with Homebrew-installed MySQL versions and streamlines the otherwise tedious manual steps.
 ## Features
 - **Multi-architecture support**: Works with both Apple Silicon (M1/M2) and Intel-based macOS systems.

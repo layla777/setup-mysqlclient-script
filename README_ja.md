@@ -1,4 +1,3 @@
-``` markdown
 # MySQL クライアントセットアップスクリプト (`mclient.sh`)
 **Current Version:** v0.9.0
 
@@ -78,4 +77,3 @@ bash mclient --help
 ## ライセンス
 
 このプロジェクトは [MITライセンス](LICENSE) の元でライセンスされています。
-```
