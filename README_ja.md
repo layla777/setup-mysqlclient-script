@@ -34,7 +34,7 @@
 
 スクリプトを `/usr/local/bin` のような環境変数 `PATH` に含まれるディレクトリに配置します。
 ```
-bash mv mclient.sh /usr/local/bin/mclient
+mv mclient.sh /usr/local/bin/mclient
 chmod +x /usr/local/bin/mclient
 ``` 
 
