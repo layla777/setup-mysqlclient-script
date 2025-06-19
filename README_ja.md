@@ -44,17 +44,17 @@ MySQLバージョンを指定するかどうかに関わらず、以下のよう
 
 ### 例1: デフォルトのMySQLバージョン (`mysql@8.0`) を使用する場合
 ```
-bash mclient
+mclient
 ``` 
 
 ### 例2: MySQLバージョンを指定する場合
 ```
-bash mclient mysql@8.4
+mclient mysql@8.4
 ``` 
 
 ### 例3: ヘルプメニューを表示する場合
 ```
-bash mclient --help
+mclient --help
 ``` 
 
 ## 仕組み
